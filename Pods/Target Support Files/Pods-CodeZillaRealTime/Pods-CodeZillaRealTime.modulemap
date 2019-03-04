@@ -1,0 +1,6 @@
+framework module Pods_CodeZillaRealTime {
+  umbrella header "Pods-CodeZillaRealTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
